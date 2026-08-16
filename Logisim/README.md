@@ -1,5 +1,7 @@
 # Pipelined Multiplier
 
+<img width="1312" height="539" alt="image" src="https://github.com/user-attachments/assets/0e5a5f36-6523-413e-a1c7-e5a22b22d6cf" />
+
 ## Overview
 
 This project presents the design and implementation of a **processor-style pipelined multiplier** in Logisim. Rather than treating multiplication as an isolated arithmetic block, the design integrates the multiplier into a structured CPU-style datapath to demonstrate instruction flow, operand handling, pipeline timing, and result write-back.
